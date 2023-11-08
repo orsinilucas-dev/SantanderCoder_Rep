@@ -1,2 +1,4 @@
 # SantanderCoder_Rep
-Santander Coder bootcamp Git repository
+## Santander Coders 2023.2 Git Repository
+
+This is a repository for anything that will be developed throughout the bootcamp Santander Coders 2023.2
